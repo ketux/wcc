@@ -1,0 +1,22 @@
+.media {
+  height: 200px;
+}
+
+h5 {
+  color: green;
+  background-color: yellow;
+}
+
+body {
+  background-color: red;
+  font-size: 24px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 10px;
+}
